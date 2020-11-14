@@ -71,6 +71,9 @@ header {
   display: block;
   clear: both;
 }
+.checkboxes {
+  margin-left: 50%;
+}
 
 .btn {
   border: none;
